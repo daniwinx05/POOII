@@ -1,0 +1,7 @@
+C:\Users\alunolab01\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\alunolab01\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\alunolab01\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\alunolab01\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\AulaC#_1208.csproj.AssemblyReference.cache
+C:\Users\alunolab01\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\AulaC#_1208.csproj.CoreCompileInputs.cache
+C:\Users\alunolab01\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\alunolab01\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
