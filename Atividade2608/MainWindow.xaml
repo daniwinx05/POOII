@@ -1,0 +1,16 @@
+﻿<Window x:Class="Atividade2608.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Atividade2608"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="B_Converte" Content="Converte" HorizontalAlignment="Left" Height="25" Margin="157,217,0,0" VerticalAlignment="Top" Width="58" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="151,140,0,0" TextWrapping="Wrap" Text="Conversor" VerticalAlignment="Top" Width="96" FontSize="20"/>
+        <TextBox x:Name="tempC" HorizontalAlignment="Left" Height="18" Margin="151,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="71" TextChanged="tempC_TextChanged"/>
+        <TextBlock x:Name="texto" HorizontalAlignment="Left" Margin="259,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="69" Width="141"/>
+
+    </Grid>
+</Window>

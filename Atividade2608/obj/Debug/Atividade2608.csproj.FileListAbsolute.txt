@@ -1,0 +1,15 @@
+C:\DevC\Atividade2608\bin\Debug\Atividade2608.exe.config
+C:\DevC\Atividade2608\bin\Debug\Atividade2608.exe
+C:\DevC\Atividade2608\bin\Debug\Atividade2608.pdb
+C:\DevC\Atividade2608\obj\Debug\Atividade2608.csproj.AssemblyReference.cache
+C:\DevC\Atividade2608\obj\Debug\MainWindow.g.cs
+C:\DevC\Atividade2608\obj\Debug\App.g.cs
+C:\DevC\Atividade2608\obj\Debug\Atividade2608_MarkupCompile.cache
+C:\DevC\Atividade2608\obj\Debug\Atividade2608_MarkupCompile.lref
+C:\DevC\Atividade2608\obj\Debug\MainWindow.baml
+C:\DevC\Atividade2608\obj\Debug\Atividade2608.g.resources
+C:\DevC\Atividade2608\obj\Debug\Atividade2608.Properties.Resources.resources
+C:\DevC\Atividade2608\obj\Debug\Atividade2608.csproj.GenerateResource.cache
+C:\DevC\Atividade2608\obj\Debug\Atividade2608.csproj.CoreCompileInputs.cache
+C:\DevC\Atividade2608\obj\Debug\Atividade2608.exe
+C:\DevC\Atividade2608\obj\Debug\Atividade2608.pdb
